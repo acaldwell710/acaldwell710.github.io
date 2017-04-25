@@ -1,5 +1,6 @@
 # Site settings
-title: Site Title
+title: Amber Caldwell
+timezone: America/New_York
 
 # Build settings
 markdown: kramdown

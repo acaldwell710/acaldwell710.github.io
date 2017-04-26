@@ -3,11 +3,5 @@ layout: page
 title: About
 ---
 
-This is my as simple as possible base Jekyll theme.
+My name is Amber Caldwell. I am a software development student at Bloc. I am also a lover of photography and surfing. My goal is to get a job that reflects the curriculum that I am learning in a relaxed environment.
 
-## Heading
-
-* List
-* List
-
-This is a [paragraph](http://google.com).

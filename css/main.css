@@ -19,11 +19,15 @@ body {
 	font-size: 1em;
 	line-height: 1.35;
 	font-family: Helvetica, sans-serif;
-    margin-top: 40px;
-    margin-bottom: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    background-image:url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/f22d1231821643.5661b192697e9.jpg');
+    background-image:url('');
+    background-repeat: no-repeat;
+    border: solid 20px black;
+    background-color:cornflowerblue;
+    
 }
 img {
 	width: 100%;
@@ -41,7 +45,7 @@ img {
   max-width: 650px;
   margin-right: auto;
   margin-left: auto;
-    background-color: #dddddd;
+   background-color:floralwhite;
     border: solid 5px black;
 }
 
@@ -72,7 +76,7 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #7E7E7E;
+	color: chocolate;
 }
 ol li,
 ul li {

@@ -12,4 +12,4 @@ This website is a mockup of an example music player and music database. It allow
 Using a tutorial led instruction, I built this website. It was first created using basic HTML, CSS, and Javascript. Then it was changed via DOM scripting. Later, it was jazzed up using jQuery. Finally, it was finished using AngularJS.
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![](/assets/images/BlocJamsAngularSS.png)

@@ -1,6 +1,8 @@
 # Site settings
 title: Amber Caldwell
 timezone: America/New_York
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://acaldwell710.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

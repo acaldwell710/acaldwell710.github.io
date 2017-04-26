@@ -19,16 +19,17 @@ body {
 	font-size: 1em;
 	line-height: 1.35;
 	font-family: Helvetica, sans-serif;
-  margin-top: 40px;
-  margin-bottom: 80px;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    background-image:url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/f22d1231821643.5661b192697e9.jpg');
 }
 img {
 	width: 100%;
 	height: auto;
 	border-radius: 3px;
-  vertical-align: middle;
+    vertical-align: middle;
 }
 
 /*
@@ -36,11 +37,12 @@ img {
  */
 
 .container {
-  padding-left: 20px;
-  padding-right: 20px;
+ padding: 20px;
   max-width: 650px;
   margin-right: auto;
   margin-left: auto;
+    background-color: #dddddd;
+    border: solid 5px black;
 }
 
 /*
@@ -64,6 +66,7 @@ h6 {
 h1 {
 	margin-top: 0px;
   font-size: 1.3rem;
+    font-family: Georgia, sans-serif;
 }
 h2 {
   font-size: 1.1rem;
@@ -96,16 +99,22 @@ hr {
  */
 
 .nav {
-  margin-bottom: 40px;
+  padding: 5px;
+    margin-bottom: 10px;
+    background-color: #333333;
+    border: solid 2px #ffffff;
 }
 .nav a {
 	text-decoration: none;
+    font-family: Georgia, sans-serif;
+    color: #ffffff;
 }
 .nav ul {
 	list-style: none;
 	padding-left: 0;
+    text-align: center;
 }
 .nav ul li {
-	margin-right: 20px;
-	display: inline-block;
+	margin-right: 10px;
+	display: inline;
 }

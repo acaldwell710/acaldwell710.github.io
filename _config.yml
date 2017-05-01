@@ -11,3 +11,6 @@ permalink: pretty
 # Scripts
 # #1
 google_analytics: "UA-98103851-1"
+
+collections:
+- projects

@@ -1,8 +1,6 @@
 # Site settings
 title: Amber Caldwell
 timezone: America/New_York
-baseurl: "http://ambercaldwell.net/" # the subpath of your site, e.g. /blog/
-url: "https://acaldwell710.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -12,4 +10,6 @@ permalink: pretty
 # #1
 google_analytics: "UA-98103851-1"
 
-collections: /projects
+collections: 
+    _projects:
+        output: true

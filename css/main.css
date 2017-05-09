@@ -2,32 +2,36 @@
  * Global
  */
 
+
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
 html {
 	font-size: 16px;
 }
+
 @media (min-width:768px) {
 	html {
-		font-size: 20px;
+		font-size: 16px;
 	}
 }
 body {
 	font-size: 1em;
 	line-height: 1.35;
-	font-family: Helvetica, sans-serif;
     margin-top: 0px;
     margin-bottom: 0px;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    background-image:url('');
+    background-image:url('/assets/images/hydrangea01.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    border: solid 20px black;
+    background-position: bottom left;
+    border: ;
     background-color:cornflowerblue;
+    font-family: 'Waiting for the Sunrise', cursive;
     
 }
 img {
@@ -38,52 +42,60 @@ img {
 }
 
 /*
- * The Grid
- */
+* The Grid
+*/
 
 .container {
- padding: 20px;
-  max-width: 650px;
-  margin-right: auto;
-  margin-left: auto;
-   background-color:floralwhite;
+    padding: 20px;
+    max-width: 650px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:floralwhite;
     border: solid 5px black;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 16px;
 }
 
 /*
- * Typography
- */
+* Typography
+*/
 
 p {
 	margin-top: 0;
 	margin-bottom: 1rem;
 }
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  margin-top: 1.5rem;
-  margin-bottom: .5rem;
-  font-size: 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: .5rem;
+    font-family: 'Fredericka the Great', cursive;
 }
+
 h1 {
 	margin-top: 0px;
-  font-size: 1.3rem;
-    font-family: Georgia, sans-serif;
+    font-size: 20px;
+    
 }
+
 h2 {
-  font-size: 1.1rem;
+    font-size: 1.1rem;
 }
+
 a {
 	color: chocolate;
 }
+
 ol li,
 ul li {
-  margin-top: 0px;
+    margin-top: 0px;
 	margin-bottom: .75rem;
 }
+
 blockquote {
   border-left: none;
   font-size: .9rem;
@@ -91,6 +103,7 @@ blockquote {
   padding-left: .75rem;
   padding-right: .75rem;
 }
+
 hr {
 	border-top: 2px solid #E7E7E7;
 	border-bottom: none;
@@ -100,8 +113,8 @@ hr {
 }
 
 /*
- * Navigation
- */
+* Navigation
+*/
 
 .nav {
   padding: 5px;
@@ -111,7 +124,8 @@ hr {
 }
 .nav a {
 	text-decoration: none;
-    font-family: Georgia, sans-serif;
+    font-family: 'Cutive Mono', monospace;
+    font-size: 16px;
     color: #ffffff;
 }
 .nav ul {
@@ -122,4 +136,10 @@ hr {
 .nav ul li {
 	margin-right: 10px;
 	display: inline;
+}
+input {
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+textarea {
+    font-family: 'Waiting for the Sunrise', cursive;
 }

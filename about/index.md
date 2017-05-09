@@ -3,5 +3,7 @@ layout: page
 title: About
 ---
 
-My name is Amber Caldwell. I am a software development student at Bloc. I am also a lover of photography and surfing. My goal is to get a job that reflects the curriculum that I am learning in a relaxed environment.
 
+<img src="/assets/images/ambercaldwell.jpg" class="self" alt="Image of Amber Caldwell">
+
+My name is Amber Caldwell. I am a software development student at Bloc with an educational background in graphic design and a work background in retail management. In my spare time, I love traveling to new places. One of my favorite hobbies is learning new languages, and currently I am teaching myself Japanese. 

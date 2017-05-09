@@ -3,5 +3,5 @@ layout: page
 title: Thank You
 ---
 
-
-Thank you for your message!
+[]("//giphy.com/embed/osjgQPWRx3cac)
+Thank you for your message! I look forward to hearing from you.

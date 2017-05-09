@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat orci, rutrum id odio nec, tristique accumsan ligula. Ut eu nunc ultrices, pharetra leo sit amet, ullamcorper nunc. Vivamus urna sapien, dapibus in leo eget, consectetur volutpat nunc. Nunc fringilla ex vel pretium congue. Etiam a semper erat. Etiam porttitor congue velit, nec venenatis sapien convallis id. Donec metus lacus, commodo a ante sit amet, efficitur ornare tellus. Sed nec vehicula diam.
+Thanks for visiting my portfolio, if you have any questions or need to contact me feel free to send an e-mail.
 
 <form action="https://getsimpleform.com/messages?form_api_token=bada2276d501228bbe19f1e09e13110d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
@@ -14,3 +14,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat orci, rutrum 
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message'/>
 </form>
+

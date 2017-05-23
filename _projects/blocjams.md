@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: projects
 title: BlocJams
 thumbnail-path: ""
 short-description: BlocJams is a music playing website that houses a collection of music and allows users to play their collection.

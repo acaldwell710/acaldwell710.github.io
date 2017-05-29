@@ -143,3 +143,11 @@ input {
 textarea {
     font-family: 'Waiting for the Sunrise', cursive;
 }
+/*
+*Loading
+*/
+
+#acicon {
+    position: absolute;
+    z-index: 1000;
+}

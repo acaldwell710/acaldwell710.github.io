@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#acicon").fadeOut(5000);
+    $("#acicon").fadeOut(3000);
 });

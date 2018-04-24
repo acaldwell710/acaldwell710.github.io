@@ -4,7 +4,7 @@ title: Projects
 ---
 
 {:.center}
-![](/assets/images/BlocJamsAngularSS.png)
+<img src="/assets/images/BlocJamsAngularSS.png" height="50%" width="50%">
 
 [Bloc Jams](/projects/blocjams)
 

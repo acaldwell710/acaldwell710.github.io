@@ -12,7 +12,7 @@ This application allows users to create rooms, and chat with each other while si
 While some of the project was given direction using tutorial, most of this was a hands off approach. This was more self-led and relied heavily on outside research as well as mentor advice.
 
 {:.center}
-![](/assets/images/bloc_chat.png)
+<img src="/assets/images/bloc_chat.png" height="50%" width="50%">
 
-[Heroku](https://git.heroku.com/bloc-chat-amber-caldwell.git)
+[Heroku](https://bloc-chat-amber-caldwell.herokuapp.com/)
 [Github](https://github.com/acaldwell710/frontend-project-starter)

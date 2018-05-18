@@ -18,6 +18,10 @@ title: Projects
 
 [Blocmetrics](/projects/blocmetrics)
 
+
+<img src="/assets/images/blocitoff.png" height="50%" width="50%">
+
+[Blocitoff](/projects/blocitoff)
+
 - Upcoming Additions -
 Bloccit - a reddit like website [Github](https://github.com/acaldwell710/bloccit)
-Blocitoff - a self-destructing to-do list [Github](https://github.com/acaldwell710/blocitoff)

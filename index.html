@@ -1,13 +1,27 @@
----
-layout: page
-title: Blog
----
-
-{% for post in site.posts %}
-	<article>
-		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		<p>{{ post.date | date: "%b %-d, %Y" }}</p>
-		{{ post.content }}
-	</article>
-	<hr>
-{% endfor %}
+<!DOCTYPE html>
+<head>
+	<title>A. Caldwell</title>
+	<link rel="stylesheet" href="index.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+	<link href="https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Shadows+Into+Light&family=Urbanist:wght@100&display=swap" rel="stylesheet">
+	<script src="mock.js"></script>
+</head>
+<body>
+	<div class="main">
+		<div id="header">
+			<img src="./assets/A.Caldwell Logo.png" class="logo" height="50%" width="50%">
+		</div>
+		<span id="nav">
+			<a href="./about.html" target="_blank">ABOUT ME</a>
+			<a href="./projects.html" target="_blank">PORTFOLIO</a>
+			<a href="https://github.com/acaldwell710" target="_blank">GITHUB</a>
+			<a href="https://www.linkedin.com/in/acaldwell710/" target="_blank">LINKEDIN</a>
+		</span>
+	</div>
+	<span id="attribution">
+		<a href="https://www.freepik.com/free-vector/striped-pattern-background-doodle-vector-simple-design_18883896.htm#query=stripes&position=41&from_view=search&track=sph">Image by rawpixel.com on Freepik</a>
+	</span>
+</body>
+</html>

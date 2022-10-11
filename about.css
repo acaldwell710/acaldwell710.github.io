@@ -1,0 +1,36 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.main {
+    background: #ffffff;
+    height: auto;
+    border-radius: 25px;
+    border-color: #000000;
+    border-width: 0px;
+    border-style: solid;
+    position: relative;
+    width: 70%;
+    margin: 5% auto;
+    padding: 5px;
+}
+
+.about {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 36px;
+    margin: auto 37%;
+}
+.about:hover{
+    color: #B7C3FD;
+}
+
+#about {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 28px;
+}
+
+#nav {
+    font-family: 'Urbanist', sans-serif;
+    margin: auto 38%;
+}

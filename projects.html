@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="projects.css">
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@100&family=Zen+Tokyo+Zoo&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="main">
+        <h3 class="projects">PORTFOLIO</h3>
+        <span id="nav">
+            <a href="./index.html" target="_blank">HOME</a>
+            <a href="https://github.com/acaldwell710" target="_blank">GITHUB</a>
+            <a href="./about.html" target="_blank">ABOUT ME</a>
+        </span>
+        <a href="http://acaldwellfullstack.s3-website-us-east-1.amazonaws.com" target="_blank"><img src="./assets/fullstackaws.png" class="slideshow" height="100%" width="100%" alt="full stack AWS website"/></a>
+        <a href="https://github.com/acaldwell710/bloc-jams" target="_blank"><img src="./assets/bloc-jams.png" class="slideshow" height="100%" width="100%" alt="Bloc Jams Website"/></a>
+        <a href="https://github.com/acaldwell710/fullstack" target="blank"><img src="./assets/fullstacktravel.png" class="slideshow" height="100%" width="100%" alt="Travel Website"></a>
+    
+
+    </div>
+    <div id="slidemov">
+    <script>
+        let slideIndex = 0;
+        carousel();
+    
+        function carousel() {
+        let i;
+        let slides = document.getElementsByClassName("slideshow");
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {slideIndex = 1}
+            slides[slideIndex-1].style.display = "block";
+        setTimeout(carousel, 8000); // Change image every 8 seconds
+        }
+    </script>
+    </div>
+</body>
+
+
+</html>

@@ -1,0 +1,33 @@
+body {
+    background-color: #999999;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.projects {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 36px;
+    margin: auto 38%;
+}
+
+.projects:hover {
+  color: #B7C3FD;
+}
+
+.main {
+    background: #ffffff;
+    height: auto;
+    border-radius: 25px;
+    border-color: #000000;
+    border-width: 0px;
+    border-style: solid;
+    position: relative;
+    width: 70%;
+    margin: 5% auto;
+    padding: 5px;
+  }
+
+  #nav {
+    font-family: 'Urbanist', sans-serif;
+    margin: auto 40%;
+  }
